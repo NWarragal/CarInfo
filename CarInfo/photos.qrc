@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>../img/INTRO_photo-resizer.ru (1).png</file>
+        <file>../img/data.txt</file>
+    </qresource>
+</RCC>
