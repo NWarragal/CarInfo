@@ -6,8 +6,11 @@
 Скриншоты:
 
 Выбор машины из списка
+
 ![car](https://github.com/NWarragal/CarInfo/blob/master/images_readme/car1.jpg)
+
 ![car2](https://github.com/NWarragal/CarInfo/blob/master/images_readme/car2.jpg)
 
 Информация о машине
+
 ![info](https://github.com/NWarragal/CarInfo/blob/master/images_readme/info.jpg)
